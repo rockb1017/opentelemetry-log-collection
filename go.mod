@@ -12,10 +12,10 @@ require (
 	github.com/observiq/go-syslog/v3 v3.0.2
 	github.com/observiq/nanojack v0.0.0-20201106172433-343928847ebc
 	github.com/stretchr/testify v1.7.0
-	go.opentelemetry.io/collector v0.44.0
+	go.opentelemetry.io/collector v0.45.0
 	go.uber.org/zap v1.21.0
 	golang.org/x/exp v0.0.0-20200331195152-e8c3332aa8e5 // indirect
-	golang.org/x/sys v0.0.0-20211205182925-97ca703d548d
+	golang.org/x/sys v0.0.0-20220114195835-da31bd327af9
 	golang.org/x/text v0.3.7
 	gonum.org/v1/gonum v0.9.3
 	gopkg.in/yaml.v2 v2.4.0
@@ -29,7 +29,7 @@ require (
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/evanphx/json-patch v4.12.0+incompatible // indirect
 	github.com/fsnotify/fsnotify v1.5.1 // indirect
-	github.com/go-logr/logr v1.2.1 // indirect
+	github.com/go-logr/logr v1.2.2 // indirect
 	github.com/gogo/protobuf v1.3.2 // indirect
 	github.com/golang/protobuf v1.5.2 // indirect
 	github.com/google/go-cmp v0.5.6 // indirect
